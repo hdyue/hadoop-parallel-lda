@@ -1,0 +1,1 @@
+this code base on the hadoop lda code http://code.google.com/p/hadoop-lda/, but the original code seems not working, I try to implement lda algorithm based on hadoop accoring to the method proposed by  Yi Wang,Hongjie Bai . PLDA: Parallel Latent Dirichlet Allocation for Large-scale Applications
